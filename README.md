@@ -1,9 +1,9 @@
 Hi, I'm Nagji Sodho
 
-🎓 IT Undergraduate | 💻 Frontend Developer | 🔐 Future Cybersecurity Analyst  
+🎓 IT Undergraduate | Frontend Developer | Future Cybersecurity Analyst  
 📚 Fiverr Tutor - I help IGCSE students with notes, MCQs, and numericals.
 
-
+ Tech Stack & Tools:
  HTML | CSS | JavaScript | Python
  Learning Cybersecurity (Coursera Certificate)
  Building websites and personal projects
