@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Nagji Sodho
 
-<!--
-**Nagjisodho/Nagjisodho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Undergraduate | 💻 Frontend Developer | 🔐 Future Cybersecurity Analyst  
+📚 Fiverr Tutor - I help IGCSE students with notes, MCQs, and numericals.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ HTML | CSS | JavaScript | Python
+ Learning Cybersecurity (Coursera Certificate)
+ Building websites and personal projects
+
+ Currently Learning
+ Ethical Hacking & Network Security
+ Frontend Project Deployment (soon on GitHub!)
+
+ Let's Connect
+   Fiverr: [Insert Fiverr Link]
+   LinkedIn: [Insert LinkedIn Link]
+   Email: [your.email@example.com]
+
+"Secure knowledge, secure the future."
+
