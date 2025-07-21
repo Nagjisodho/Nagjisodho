@@ -14,7 +14,7 @@ Hi, I'm Nagji Sodho
 
  Let's Connect
    Fiverr: [https://www.fiverr.com/nagji_sodh]
-   LinkedIn: [https://www.linkedin.com/in/nagji-sodho-b4b146353/]
+   LinkedIn: [https://www.linkedin.com/in/nagjisodho]
    Email: [nagjisodho78@gmial.com]
 
 "Secure knowledge, secure the future."
